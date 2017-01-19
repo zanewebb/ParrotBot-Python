@@ -57,4 +57,4 @@ async def swear_check(message): #Checks the message it was passed to see if it h
 #This client token is specific to Stan, do not change it
 
 #******************THIS MUST BE REMOVED BEFORE PUSHING TO GITHUB*******************************
-client.run('MjcxMTM4NTM2NjE3NDEwNTcw.C2CFBg.dUW3sB2dJZm2vaOp4CaTAfpKJew')
+client.run('TOKEN GOES HERE')
