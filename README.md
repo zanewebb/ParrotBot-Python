@@ -14,4 +14,7 @@ __In order to run this bot you have to install a few things:__
     ```
 - Clone this repository
 - Make sure that the bot's token is inserted, at the bottom of the file or it will not be able to login to discord
-- Run the python file 
+- Run the python file
+
+
+https://github.com/Rapptz/discord.py 
